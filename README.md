@@ -1,2 +1,7 @@
-# AnimeFlix
-🍿🎥🎞️ Netflix clone using Flutter, applying all concepts learned on FlutterFlow
+# TinderForMovies
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
